@@ -15,4 +15,4 @@ Refrences:
 
 [Allegheny County Basin Outlines Map](https://data.wprdc.org/dataset/allegheny-county-basin-outlines-map/resource/5e0d744a-8934-4336-8641-2411fcb07d6c): 
 
-Description: Finding the best neighborhood where Pennywise from IT would be able to succeed in luring the most children.
+Description: Finding the best neighborhood where Pennywise from IT would be able to succeed in luring the most children. Our measure of "worstness" is if the area does not allow for Pennywise to capture and eat children. In contrast, our measure of "greatness" is if the neigbourhood has a well connected sewer system, with a good amount of children present to snatch. 
