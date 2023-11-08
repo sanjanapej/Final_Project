@@ -9,10 +9,9 @@ Team Members:
 
 Refrences:
 
-Allegheny County Hydrology Lines: https://data.wprdc.org/dataset/allegheny-county-hydrology-lines
+[Allegheny County Hydrology Lines](https://data.wprdc.org/dataset/allegheny-county-hydrology-lines): 
 
-Enrollment by school and neighborhood - all grades: https://data.wprdc.org/dataset/pittsburgh-public-schools-enrollment/resource/7b0660d1-c812-496d-ab0a-8560902e9e70
+[Enrollment by school and neighborhood - all grades](https://data.wprdc.org/dataset/pittsburgh-public-schools-enrollment/resource/7b0660d1-c812-496d-ab0a-8560902e9e70): 
 
-Allegheny County Basin Outlines Map: https://data.wprdc.org/dataset/allegheny-county-basin-outlines-map/resource/5e0d744a-8934-4336-8641-2411fcb07d6c
-
+[Allegheny County Basin Outlines Map](https://data.wprdc.org/dataset/allegheny-county-basin-outlines-map/resource/5e0d744a-8934-4336-8641-2411fcb07d6c): 
 Description: Finding the best neighborhood where Pennywise from IT would be able to succeed in luring the most children.
